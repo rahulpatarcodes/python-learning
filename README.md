@@ -211,7 +211,7 @@ This repository serves as:
 
 I'm continuously learning, building, and improving my technical skills.
 
-**GitHub:** [https://github.com/rahulpatarcodes/python-learning/blob/main/Ai_Ml_Command_Center.py]
+**GitHub:** [https://github.com/rahulpatarcodes/python-learning.git]
 
 **LinkedIn:** [www.linkedin.com/in/rahul-patar-3a2713433]
 
